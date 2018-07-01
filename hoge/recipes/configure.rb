@@ -1,1 +1,1 @@
-log "Hello Chef"
+log "Hello Chef configure"
